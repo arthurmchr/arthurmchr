@@ -20,5 +20,5 @@ My passion for crafting digital projects has been widely rewarded with Awwwards 
 ## Filter
 <a href="https://www.instagram.com/p/CJFSRAGh96C/"><img src="https://user-images.githubusercontent.com/6191766/120612580-a1c15b80-c455-11eb-8400-bdc10645f581.jpg" width="200px"></a>
 
-### Photography
+## Photography
 <a href="https://www.behance.net/gallery/66537407/Pushkar-to-Varanasi-India"><img src="https://user-images.githubusercontent.com/6191766/120612511-8f472200-c455-11eb-92c0-46fc65e9006e.jpg" width="200px"></a>
