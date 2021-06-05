@@ -2,7 +2,7 @@
 
 I have been working for the past 10 years as frond-end developer in prominent advertising agency and digital production studio.
 
-Working with creatives, I develop high performance applications for desktop and mobile using latest technologies and industry standards (React, 11ty, Svelte, Headless CMS, Vercel, Netlify, Cloud hosting, Vanilla).
+Working with creatives, I develop high performance applications for desktop and mobile using latest technologies and industry standards (React, 11ty, Headless CMS, Vercel, Netlify, Vanilla).
 
 My passion for crafting digital projects combining technical and graphical skills has been widely rewarded with Awwwards (1 Site of the Year), FWA (2 Site of the Year), Lions.
 
