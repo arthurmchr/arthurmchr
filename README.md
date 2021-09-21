@@ -22,8 +22,7 @@ My passion for crafting digital projects delivering technical and graphical aspe
 
 ## Filter
 
-<a href="https://github.com/arthurmchr/videos/chanel-ask-for-the-moon.mp4"><img src="https://user-images.githubusercontent.com/6191766/120612580-a1c15b80-c455-11eb-8400-bdc10645f581.jpg" width="200px"></a> <a href="https://github.com/arthurmchr/videos/chloe.mp4"><img src="https://user-images.githubusercontent.com/6191766/134141925-506c8485-b0fd-477b-99a5-085ee7d3abbb.jpg" width="200px"></a>
-
+<a href="https://github.com/arthurmchr/videos/chanel-ask-for-the-moon.mp4"><img src="https://user-images.githubusercontent.com/6191766/120612580-a1c15b80-c455-11eb-8400-bdc10645f581.jpg" width="200px"></a> <a href="https://github.com/arthurmchr/videos/chloe.mp4"><img src="https://user-images.githubusercontent.com/6191766/134142375-6e7fa99d-18d1-4fe3-8c1a-79101c5ab790.jpg" width="200px"></a>
 
 ## Photography
 
