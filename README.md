@@ -18,8 +18,7 @@ My passion for crafting digital projects delivering technical and graphical aspe
 
 ## Installation
 
-<a href="https://luxe.net/chanel-coco-game-center-la-marque-de-luxe-ouvre-sa-propre-salle-darcade/"><img src="https://user-images.githubusercontent.com/6191766/120612433-7e96ac00-c455-11eb-88ce-58e5b82ea3b6.jpg" width="200px"></a> <a href="
-https://user-images.githubusercontent.com/6191766/134143060-c4c4a8a4-45d4-4bb3-8aef-0949da33a873.mp4"><img src="https://user-images.githubusercontent.com/6191766/120661179-54121680-c488-11eb-9d2d-34e9439de565.jpg" width="200px"></a>
+<a href="https://luxe.net/chanel-coco-game-center-la-marque-de-luxe-ouvre-sa-propre-salle-darcade/"><img src="https://user-images.githubusercontent.com/6191766/120612433-7e96ac00-c455-11eb-88ce-58e5b82ea3b6.jpg" width="200px"></a> <a href="https://user-images.githubusercontent.com/6191766/134144295-cb716fb6-b3f4-4c5c-a059-6cd48d96c1cc.mp4"><img src="https://user-images.githubusercontent.com/6191766/120661179-54121680-c488-11eb-9d2d-34e9439de565.jpg" width="200px"></a>
 
 ## Filter
 
@@ -29,4 +28,4 @@ https://user-images.githubusercontent.com/6191766/134143060-c4c4a8a4-45d4-4bb3-8
 
 <a href="https://www.behance.net/gallery/66537407/Pushkar-to-Varanasi-India"><img src="https://user-images.githubusercontent.com/6191766/120612511-8f472200-c455-11eb-92c0-46fc65e9006e.jpg" width="200px"></a>
 
-# More projects on [arthur.muchir.fr](https://arthur.muchir.fr) 
+# More projects on [arthur.muchir.fr](https://arthur.muchir.fr)
