@@ -29,4 +29,4 @@ https://user-images.githubusercontent.com/6191766/134143060-c4c4a8a4-45d4-4bb3-8
 
 <a href="https://www.behance.net/gallery/66537407/Pushkar-to-Varanasi-India"><img src="https://user-images.githubusercontent.com/6191766/120612511-8f472200-c455-11eb-92c0-46fc65e9006e.jpg" width="200px"></a>
 
-# More projects on [arthur.muchir.fr](https://arthur.muchir.fr)
+# More projects on [arthur.muchir.fr](https://arthur.muchir.fr) 
