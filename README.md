@@ -24,6 +24,10 @@ My passion for crafting digital projects delivering technical and graphical aspe
 
 <a href="https://user-images.githubusercontent.com/6191766/134143025-ba362745-5b9a-4230-9b63-75eeef80b639.mp4"><img src="https://user-images.githubusercontent.com/6191766/120612580-a1c15b80-c455-11eb-8400-bdc10645f581.jpg" width="200px"></a> <a href="https://user-images.githubusercontent.com/6191766/134143114-7cf9cd7e-38bb-4a79-a407-6ed8ad232fad.mp4"><img src="https://user-images.githubusercontent.com/6191766/134142375-6e7fa99d-18d1-4fe3-8c1a-79101c5ab790.jpg" width="200px"></a>
 
+## Generative artwork
+
+<a href="https://www.fxhash.xyz/generative/3767"><img src="https://user-images.githubusercontent.com/6191766/170320047-f9b48fb1-a3b0-4add-bf54-0ee166e86de1.jpg" width="200px"></a> <a href="https://www.fxhash.xyz/generative/5618"><img src="https://user-images.githubusercontent.com/6191766/170320639-fc2b608c-9e95-4af2-bed8-055cc9164071.jpg" width="200px"></a>
+
 ## Photography
 
 <a href="https://www.behance.net/gallery/66537407/Pushkar-to-Varanasi-India"><img src="https://user-images.githubusercontent.com/6191766/120612511-8f472200-c455-11eb-92c0-46fc65e9006e.jpg" width="200px"></a>
