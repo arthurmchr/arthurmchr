@@ -2,7 +2,7 @@
 
 I have been working for the past 10 years as frond-end developer in prominent advertising agency and digital production studio.
 
-Working closely with creatives, I develop high performance applications for desktop and mobile using latest technologies and industry standards (Next, Svelte, Headless CMS, Vercel, Netlify, Vanilla).
+Working closely with creatives, I develop high performance applications for desktop and mobile using latest technologies and industry standards (Next, Headless CMS, Vercel, Netlify, Vanilla).
 
 My passion for crafting digital projects delivering technical and graphical aspects has been widely rewarded with Awwwards (1 Site of the Year), FWA (2 Site of the Year), Lions.
 
@@ -26,7 +26,7 @@ My passion for crafting digital projects delivering technical and graphical aspe
 
 ## Generative artwork
 
-<a href="https://www.fxhash.xyz/generative/3767"><img src="https://user-images.githubusercontent.com/6191766/170320047-f9b48fb1-a3b0-4add-bf54-0ee166e86de1.jpg" width="200px"></a> <a href="https://www.fxhash.xyz/generative/5618"><img src="https://user-images.githubusercontent.com/6191766/170320639-fc2b608c-9e95-4af2-bed8-055cc9164071.jpg" width="200px"></a>
+<a href="https://www.fxhash.xyz/generative/3767"><img src="https://user-images.githubusercontent.com/6191766/170320047-f9b48fb1-a3b0-4add-bf54-0ee166e86de1.jpg" width="200px"></a> <a href="https://www.fxhash.xyz/generative/5618"><img src="https://user-images.githubusercontent.com/6191766/170320639-fc2b608c-9e95-4af2-bed8-055cc9164071.jpg" width="200px"></a> <a href="https://www.fxhash.xyz/generative/14539"><img src="https://user-images.githubusercontent.com/6191766/173527071-40bf881f-9bae-42ed-b15b-afe4ada5fc4a.jpg" width="200px"></a>
 
 ## Photography
 
