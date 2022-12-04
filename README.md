@@ -10,7 +10,7 @@ My passion for crafting digital projects delivering technical and graphical aspe
 
 ## Experience
 
-<a href="http://because-recollection.com/"><img src="https://user-images.githubusercontent.com/6191766/120612220-42634b80-c455-11eb-9a7a-c3ae047b8b46.jpg" width="200px"></a> <a href="https://www.comme-des-garcons-parfum.com/concrete/"><img src="https://user-images.githubusercontent.com/6191766/120612460-848c8d00-c455-11eb-958a-ca7058731361.jpg" width="200"></a> <a href="https://loccitane-omy-experience.com/"><img src="https://user-images.githubusercontent.com/6191766/120612567-9e2dd480-c455-11eb-8926-ae384e38f25b.jpg" width="200"></a>
+<a href="http://because-recollection.com/"><img src="https://user-images.githubusercontent.com/6191766/120612220-42634b80-c455-11eb-9a7a-c3ae047b8b46.jpg" width="200"></a> <a href="https://www.comme-des-garcons-parfum.com/concrete/"><img src="https://user-images.githubusercontent.com/6191766/120612460-848c8d00-c455-11eb-958a-ca7058731361.jpg" width="200"></a> <a href="https://loccitane-omy-experience.com/"><img src="https://user-images.githubusercontent.com/6191766/120612567-9e2dd480-c455-11eb-8926-ae384e38f25b.jpg" width="200"></a>
 
 ## Institution
 
@@ -26,7 +26,7 @@ My passion for crafting digital projects delivering technical and graphical aspe
 
 ## Generative artwork
 
-<a href="https://www.fxhash.xyz/generative/20965"><img src="https://user-images.githubusercontent.com/6191766/205513013-234a4df6-dd43-4212-8a05-e7abb6e4efd1.jpg" width="200"></a> <a href="https://www.fxhash.xyz/generative/14539"><img src="https://user-images.githubusercontent.com/6191766/173527071-40bf881f-9bae-42ed-b15b-afe4ada5fc4a.jpg" width="200"></a> <a href="https://www.fxhash.xyz/generative/5618"><img src="https://user-images.githubusercontent.com/6191766/170320639-fc2b608c-9e95-4af2-bed8-055cc9164071.jpg" width="200"></a> <a href="https://www.fxhash.xyz/generative/3767"><img src="https://user-images.githubusercontent.com/6191766/170320047-f9b48fb1-a3b0-4add-bf54-0ee166e86de1.jpg" width="200"></a>
+<a href="https://www.fxhash.xyz/generative/20965"><img src="https://user-images.githubusercontent.com/6191766/205513295-9fd7db3f-a6ff-491e-aa9c-5e4f43c2a023.jpg" width="200"></a> <a href="https://www.fxhash.xyz/generative/14539"><img src="https://user-images.githubusercontent.com/6191766/173527071-40bf881f-9bae-42ed-b15b-afe4ada5fc4a.jpg" width="200"></a> <a href="https://www.fxhash.xyz/generative/5618"><img src="https://user-images.githubusercontent.com/6191766/170320639-fc2b608c-9e95-4af2-bed8-055cc9164071.jpg" width="200"></a> <a href="https://www.fxhash.xyz/generative/3767"><img src="https://user-images.githubusercontent.com/6191766/170320047-f9b48fb1-a3b0-4add-bf54-0ee166e86de1.jpg" width="200"></a>
 
 ## Photography
 
