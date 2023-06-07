@@ -1,6 +1,6 @@
 # About
 
-I have been working for the past 10 years as frond-end developer in prominent advertising agency and digital production studio.
+I have been working for the past 10 years as frond-end developer in prominent advertising agencies and digital production studio.
 
 Working closely with creatives, I develop high performance applications for desktop and mobile using latest technologies.
 
