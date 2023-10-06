@@ -10,15 +10,11 @@ My passion for crafting digital projects delivering technical and graphical aspe
 
 ## Experience
 
-<a href="http://because-recollection.com/"><img src="https://user-images.githubusercontent.com/6191766/120612220-42634b80-c455-11eb-9a7a-c3ae047b8b46.jpg" width="200"></a> <a href="https://www.comme-des-garcons-parfum.com/concrete/"><img src="https://user-images.githubusercontent.com/6191766/120612460-848c8d00-c455-11eb-958a-ca7058731361.jpg" width="200"></a>
+<a href="http://because-recollection.com/"><img src="https://user-images.githubusercontent.com/6191766/120612220-42634b80-c455-11eb-9a7a-c3ae047b8b46.jpg" width="200"></a> <a href="https://www.comme-des-garcons-parfum.com/concrete/"><img src="https://user-images.githubusercontent.com/6191766/120612460-848c8d00-c455-11eb-958a-ca7058731361.jpg" width="200"></a> <a href="https://luxe.net/chanel-coco-game-center-la-marque-de-luxe-ouvre-sa-propre-salle-darcade/"><img src="https://user-images.githubusercontent.com/6191766/120612433-7e96ac00-c455-11eb-88ce-58e5b82ea3b6.jpg" width="200"></a> <a href="https://www.84paris.com/fr/work/bmw-the-next-100-years-fr"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/6191766/273272373-6c5dea6f-b6f1-4494-8cef-aff54dfd42b8.jpg" width="200"></a>
 
 ## Institutional
 
 <a href="https://recrafting-chardonnay.ruinart.com/"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/6191766/273268387-1a38846e-8dad-4e84-add8-b8e671e37f84.jpg" width="200"></a> <a href="https://www.84paris.com/"><img src="https://user-images.githubusercontent.com/6191766/123086008-37cc1e80-d423-11eb-9336-b11b42c05fa7.jpg" width="200"></a> <a href="http://www.des-signes.fr/"><img src="https://user-images.githubusercontent.com/6191766/120612482-89e9d780-c455-11eb-82dc-f5a0a7687505.jpg" width="200"></a>
-
-## Installation
-
-<a href="https://luxe.net/chanel-coco-game-center-la-marque-de-luxe-ouvre-sa-propre-salle-darcade/"><img src="https://user-images.githubusercontent.com/6191766/120612433-7e96ac00-c455-11eb-88ce-58e5b82ea3b6.jpg" width="200"></a>
 
 ## Filter
 
