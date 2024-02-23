@@ -10,7 +10,7 @@ My passion for crafting digital projects delivering technical and graphical aspe
 
 ## Experience
 
-<a href="http://because-recollection.com/"><img src="https://user-images.githubusercontent.com/6191766/120612220-42634b80-c455-11eb-9a7a-c3ae047b8b46.jpg" width="200"></a> <a href="https://www.comme-des-garcons-parfum.com/concrete/"><img src="https://user-images.githubusercontent.com/6191766/120612460-848c8d00-c455-11eb-958a-ca7058731361.jpg" width="200"></a> <a href="https://www.84paris.com/fr/work/bmw-the-next-100-years-fr"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/6191766/273882984-2ac88ce5-162d-497a-9a18-36e5031fdc22.jpeg" width="200"></a> <a href="https://luxe.net/chanel-coco-game-center-la-marque-de-luxe-ouvre-sa-propre-salle-darcade/"><img src="https://user-images.githubusercontent.com/6191766/120612433-7e96ac00-c455-11eb-88ce-58e5b82ea3b6.jpg" width="200"></a>
+<a href="http://because-recollection.com/"><img src="https://user-images.githubusercontent.com/6191766/120612220-42634b80-c455-11eb-9a7a-c3ae047b8b46.jpg" width="200"></a> <a href="https://www.84paris.com/fr/work/comme-des-garcons-sounds-of-concrete-fr"><img src="https://user-images.githubusercontent.com/6191766/120612460-848c8d00-c455-11eb-958a-ca7058731361.jpg" width="200"></a> <a href="https://www.84paris.com/fr/work/bmw-the-next-100-years-fr"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/6191766/273882984-2ac88ce5-162d-497a-9a18-36e5031fdc22.jpeg" width="200"></a> <a href="https://luxe.net/chanel-coco-game-center-la-marque-de-luxe-ouvre-sa-propre-salle-darcade/"><img src="https://user-images.githubusercontent.com/6191766/120612433-7e96ac00-c455-11eb-88ce-58e5b82ea3b6.jpg" width="200"></a>
 
 ## Institutional
 
