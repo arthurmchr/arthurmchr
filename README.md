@@ -4,7 +4,7 @@ I have been working for the past 12 years as frond-end developer in prominent ad
 
 Working closely with creatives, I develop high performance applications for desktop and mobile using latest technologies.
 
-My passion for crafting digital projects delivering technical and graphical aspects has been widely rewarded with Awwwards (1 Site of the Year), FWA (2 Site of the Year), Lions.
+My passion for crafting digital projects delivering technical and graphical aspects has been widely rewarded with Awwwards (1 Site of the Year), FWA (2 Site of the Year), Cannes Lions, Club des DA, D&AD.
 
 # Selected works
 
